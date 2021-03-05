@@ -63,6 +63,9 @@ ga('send', 'pageview');
 
             <ul class="navbar-nav ml-auto">
 
+                
+                {% include search-lunr.html %}
+                
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
@@ -74,7 +77,7 @@ ga('send', 'pageview');
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
-
+                <!--
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
                 </li>
@@ -90,8 +93,8 @@ ga('send', 'pageview');
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
                 </li>
-
-                {% include search-lunr.html %}
+            -->
+                
 
             </ul>
 
@@ -174,9 +177,9 @@ ga('send', 'pageview');
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+            <!--<div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
-            </div>
+            </div>-->
         </div>
     </div>
 </footer>
