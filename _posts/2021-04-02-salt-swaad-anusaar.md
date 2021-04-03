@@ -2,7 +2,7 @@
 layout: post
 title:  "Salt - Swaad Anusaar"
 author: tarun
-categories: [ Jekyll, tutorial ]
+categories: [ basics, salt ]
 image: assets/images/salt.png
 featured: true
 hidden: true
@@ -11,7 +11,7 @@ hidden: true
 Welcome everyone to my blog **Swaad**, and I bring you my first article!
 I decided since Salt/Namak is so so important, such an underrated ingredient and yet the hardest to measure, it's only fair that I start my blog by addressing the biggest elephant in the kitchen.
 
-I really like this observation by *Krish Ashok* from his book *Masala Lab*
+I really like this observation by *Krish Ashok* in his book [*Masala Lab*](https://www.goodreads.com/book/show/54968807-masala-lab)
 >Salt is a strange and mysterious substance. This simple molecule brings food to life, and yet it is the only substance we eat that did not originate in a living thing.
 
 Just to make things clear, I'm talking about Table Salt (Sodium Chloride, NaCl) right now. I'll cover some other commonly used salts too towards the end. 
@@ -22,13 +22,13 @@ Making a sweet dish? *Just add a pinch of salt, and elevate the flavour.*
 Making a savoury meal? *You know the drill, add salt and it increase the aroma!*  
 It also helps balance sourness and the overall flavour of the dish. 
 
-**Bonus Tip**: Salt makes vegetables loose water quickly and speeds up the cooking process! Now you know what to do when that damn dish is taking forever to cook ;)
+**Bonus Tip**: Adding salt while cooking makes vegetables loose water quickly and speeds up the cooking process! Now you know what to do when that damn dish is taking forever to cook ;)
 
 I won't get into the science of why this happens but do let me know if you want to discuss. 
 
 "Okay Tarun, we know salt is important now, but HOW MUCH TO USE IT!?"
 
-### Measuring Salt
+### How to measure Salt?
 You can salt your dish "Swaad Anusaar" (*To Taste*) is something we hear just too often and I know everyone new to cooking has a tough time understanding the right quantity. 
 See, I will be honest, there is no right amount of salt and people from different regions of the world actually have varying salt tolerances. So, the exact measure will develop only with time. However, I can surely help you get started. 
 
@@ -46,12 +46,14 @@ Follow these tips and I'm sure you will find your accurate measurement :)
 There are some other salts which are worth knowing.
 
 #### Sea Salt
-<p align="center">
-  <img  src="{{ site.baseurl }}/assets/images/seasalt.jpg" style="width: 50%; height: 50%;">
+<div style = "float:right;margin-left 1em;margin-right 1em;">
+  <img  src="{{ site.baseurl }}/assets/images/seasalt(3).jpg" style="width: 90%; height: 90%;">
+</div>
+<p>
+Sea salt has bigger crytals and doesn't contain iodine like table salt, else they are mostly the same Sodium Chloride (NaCl). It's generally used as a finishing element while serving the dish providing better contrast and texture owing to it's crytal size and also a burst of flavour.
 </p>
-Sea salt has bigger crytals and doesn't contain iodine like table salt. It's generally used as a finishing element while serving the dish providing better contrast and texture owing to it's crytal size and also a burst of flavour.
 
-#### Black Salt
+#### Black Salt (*Kala Namak*)
 <p align="center">
   <img  src="{{ site.baseurl }}/assets/images/blacksalt.jpg" style="width: 70%; height: 70%;">
 </p>

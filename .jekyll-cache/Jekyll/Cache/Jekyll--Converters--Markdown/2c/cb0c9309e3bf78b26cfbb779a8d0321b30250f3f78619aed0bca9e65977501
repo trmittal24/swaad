@@ -1,7 +1,7 @@
-I"�<p>Welcome everyone to my blog <strong>Swaad</strong>, and I bring you my first article!
+I"i<p>Welcome everyone to my blog <strong>Swaad</strong>, and I bring you my first article!
 I decided since Salt/Namak is so so important, such an underrated ingredient and yet the hardest to measure, it’s only fair that I start my blog by addressing the biggest elephant in the kitchen.</p>
 
-<p>I really like this observation by <em>Krish Ashok</em> from his book <em>Masala Lab</em></p>
+<p>I really like this observation by <em>Krish Ashok</em> in his book <a href="https://www.goodreads.com/book/show/54968807-masala-lab"><em>Masala Lab</em></a></p>
 <blockquote>
   <p>Salt is a strange and mysterious substance. This simple molecule brings food to life, and yet it is the only substance we eat that did not originate in a living thing.</p>
 </blockquote>
@@ -38,12 +38,14 @@ See, I will be honest, there is no right amount of salt and people from differen
 <p>There are some other salts which are worth knowing.</p>
 
 <h4 id="sea-salt">Sea Salt</h4>
-<p align="center">
-  <img src="/mediumish-theme-jekyll/assets/images/seasalt.jpg" style="width: 50%; height: 50%;" />
+<div style="float:right;margin-left 1em;margin-right 1em;">
+  <img src="/mediumish-theme-jekyll/assets/images/seasalt(3).jpg" />
+</div>
+<p>
+Sea salt has bigger crytals and doesn't contain iodine like table salt. It's generally used as a finishing element while serving the dish providing better contrast and texture owing to it's crytal size and also a burst of flavour.
 </p>
-<p>Sea salt has bigger crytals and doesn’t contain iodine like table salt. It’s generally used as a finishing element while serving the dish providing better contrast and texture owing to it’s crytal size and also a burst of flavour.</p>
 
-<h4 id="black-salt">Black Salt</h4>
+<h4 id="black-salt-kala-namak">Black Salt (<em>Kala Namak</em>)</h4>
 <p align="center">
   <img src="/mediumish-theme-jekyll/assets/images/blacksalt.jpg" style="width: 70%; height: 70%;" />
 </p>
