@@ -37,7 +37,7 @@ Usually the right quantity of salt lies anywhere between 1-1.5% by weight of the
   <img  src="{{ site.baseurl }}/assets/images/saltbae.gif">
 </p>
 
-Another tip is **"Season as you go"**, meaning salt each layer of the dish right away. Making a curry with 3 components? Salt the base gravy while cooking it, then salt it again when you add the tomato puree, and finally again when you add the 3rd component (Potato, paneer, veggies...).
+Another tip is **"Season as you go"**, meaning salt each layer of the dish right away. Making a curry with 3 components? Salt the base gravy while cooking it, then salt it again when you add the tomato puree, and finally again when you add the 3rd component (Potato, paneer, veggies...). If you have some accompanying rice/pasta/noodles, you can add salt in the water you are boiling them in.
 
 Follow these tips and I'm sure you will find your accurate measurement :)
 
