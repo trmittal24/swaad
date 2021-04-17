@@ -7,12 +7,12 @@ image: assets/images/salt.png
 featured: true
 hidden: true
 ---
+>Salt is a strange and mysterious substance. This simple molecule brings food to life, and yet it is the only substance we eat that did not originate in a living thing.
+
+I really like this observation by *Krish Ashok* in his book [*Masala Lab*](https://www.goodreads.com/book/show/54968807-masala-lab)
 
 Welcome everyone to my blog **Swaad**, and I bring you my first article!
 I decided since Salt/Namak is so so important, such an underrated ingredient and yet the hardest to measure, it's only fair that I start my blog by addressing the biggest elephant in the kitchen.
-
-I really like this observation by *Krish Ashok* in his book [*Masala Lab*](https://www.goodreads.com/book/show/54968807-masala-lab)
->Salt is a strange and mysterious substance. This simple molecule brings food to life, and yet it is the only substance we eat that did not originate in a living thing.
 
 Just to make things clear, I'm talking about Table Salt (Sodium Chloride, NaCl) right now. I'll cover some other commonly used salts too towards the end. 
 
@@ -32,7 +32,7 @@ I won't get into the science of why this happens but do let me know if you want 
 You can salt your dish "Swaad Anusaar" (*To Taste*) is something we hear just too often and I know everyone new to cooking has a tough time understanding the right quantity. 
 See, I will be honest, there is no right amount of salt and people from different regions of the world actually have varying salt tolerances. So, the exact measure will develop only with time. However, I can surely help you get started. 
 
-Usually the right quantity of salt lies anywhere between 1-1.5% by weight of the meal. So, for 100gms of curry, approximately 1-1.5gms of Salt. Remember, less salt can always be adjusted by adding more later, but there is no real way to adjust for more salt. So, start with adding salt in steps and keep tasting the dish to understand the development. Please use a spoon to keep a measure, and don't wing it by sprinkling :p . 
+Usually the right quantity of salt lies anywhere between 1-1.5% by weight of the meal. So, for 100gms of curry, approximately 1-1.5gms of Salt. Remember, less salt can always be adjusted by adding more later, but there is no real way to adjust for more salt (Actually you can balance a bit of extra salt with little lemon or sugar but with too much extra salt you are risking changing the flavour profile of dish). So, start with adding salt in steps and keep tasting the dish to understand the development. Please use a spoon to keep a measure, and don't wing it by sprinkling :p . 
 <p align="center">
   <img  src="{{ site.baseurl }}/assets/images/saltbae.gif">
 </p>
