@@ -14,11 +14,11 @@ permalink: /:title/
 # Authors
 authors:
   tarun:
-    name: tarun
-    display_name: tarun
+    name: Tarun Mittal
+    display_name: Tarun Mittal
     gravatar: 6f45aae7b3300e99ea50987fc2d258b8
     email: trmittal24@gmail.com
-    web: https://www.wowthemes.net
+    web: 
     twitter: https://twitter.com/trmittal24
     description: "Author of Cooking blog"
   sal:
