@@ -7,10 +7,11 @@ favicon: 'assets/images/SWAAD1.png'
 baseurl: /swaad
 google_analytics: 'G-QZ2HB2M16C'
 disqus: 'demowebsite'
-mailchimp-list: 'https://chimpstatic.com/mcjs-connected/js/users/54f34d45474deec43ea1487c2/e631d7137b575d15ae63d6d14.js'
+mailchimp-list: 'https://mailchi.mp/5a8d751fa6c3/swaad'
 include: ["_pages"]
 permalink: /:title/
 
+#<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/54f34d45474deec43ea1487c2/e631d7137b575d15ae63d6d14.js");</script>
 
 # Authors
 authors:
