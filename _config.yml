@@ -7,9 +7,10 @@ favicon: 'assets/images/SWAAD1.png'
 baseurl: /swaad
 google_analytics: 'G-QZ2HB2M16C'
 disqus: 'demowebsite'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://chimpstatic.com/mcjs-connected/js/users/54f34d45474deec43ea1487c2/e631d7137b575d15ae63d6d14.js'
 include: ["_pages"]
 permalink: /:title/
+
 
 # Authors
 authors:
