@@ -6,7 +6,7 @@
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://github.us1.list-manage.com/subscribe/post?u=54f34d45474deec43ea1487c2&amp;id=ad667dd78d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<label for="mce-EMAIL">Subscribe</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
@@ -17,5 +17,4 @@
 </form>
 </div>
 
-<!--End mc_embed_signup-->
-
+https://mailchi.mp/5a8d751fa6c3/swaad
