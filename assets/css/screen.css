@@ -39,7 +39,7 @@ pre {
 }
 
 .mediumnavigation {
-    background: rgba(235, 205, 165, 0.97);
+    background: blanchedalmond;
     box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
     transition: top 0.2s ease-in-out;
 }
@@ -772,7 +772,7 @@ iframe {
         margin-bottom: -50px;
         margin-top: 3rem;
         padding: 0;
-        height: 350px;
+        height: 100px;
         border-radius: 0;
         background-image: url(../images/2.jpg);
         background-size: cover;

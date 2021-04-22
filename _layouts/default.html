@@ -69,7 +69,7 @@
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
-                <li class="nav-item">
+                <li class="nav-item" >
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
@@ -114,10 +114,10 @@
 <!-- Site Title
 ================================================== -->
 <div class="mainheading" href="{{ site.baseurl }}/">
-    <h1  href="{{ site.baseurl }}/" class="sitetitle">{{ site.name }} </h1>
-    <p  href="{{ site.baseurl }}/" class="lead">
+    <a href="{{ site.baseurl }}/" style="color: black;"> <h1   class="sitetitle" > {{ site.name }} </h1> </a>
+    <a href="{{ site.baseurl }}/" style="color: black;"><p   class="lead" href="{{ site.baseurl }}/">
         {{ site.description }}
-    </p>
+    </p></a>
 </div>
 
 <!-- Content
@@ -174,7 +174,7 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left" style="align-self: center;">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <!--<div class="col-md-6 col-sm-6 text-center text-lg-right">    
