@@ -4,7 +4,7 @@ title: "Swaad"
 description: "Cook with Love, and Logic"
 logo: 'assets/images/SWAAD1.png'
 favicon: 'assets/images/SWAAD1.png'
-baseurl: /swaad
+baseurl: 
 google_analytics: 'G-QZ2HB2M16C'
 disqus: 'demowebsite'
 mailchimp-list: 'https://github.us1.list-manage.com/subscribe/post?u=54f34d45474deec43ea1487c2&amp;id=ad667dd78d'
