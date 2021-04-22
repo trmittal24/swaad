@@ -6,7 +6,7 @@ logo: 'assets/images/SWAAD1.png'
 favicon: 'assets/images/SWAAD1.png'
 baseurl: 
 google_analytics: 'G-QZ2HB2M16C'
-disqus: 'demowebsite'
+disqus: 'swaad'
 mailchimp-list: 'https://github.us1.list-manage.com/subscribe/post?u=54f34d45474deec43ea1487c2&amp;id=ad667dd78d'
 include: ["_pages"]
 permalink: /:title/
@@ -20,10 +20,11 @@ authors:
     name: Tarun Mittal
     display_name: Tarun Mittal
     gravatar: 6f45aae7b3300e99ea50987fc2d258b8
+    pic: assets/images/tarun.jpg
     email: trmittal24@gmail.com
     web: 
     twitter: https://twitter.com/trmittal24
-    description: "Author of Cooking blog"
+    description: "\n Author of Cooking blog"
   sal:
     name: Sal
     display_name: Sal
