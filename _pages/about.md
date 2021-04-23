@@ -25,7 +25,7 @@ Please show some love, give feedback: good or bad and let's get cooking!
 
 <h4>Contact</h4>
 
-<p>You can reach out to me at *trmittal24@gmail.com* for queries and more details.</p>
+<p>You can reach out to me at <a href="mailto:trmittal24@gmail.com">trmittal24@gmail.com</a> for queries and more details.</p>
 
 </div>
 

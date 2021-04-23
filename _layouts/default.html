@@ -71,7 +71,7 @@
                 {% else %}
                 <li class="nav-item" >
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
 
                 <li class="nav-item">
@@ -113,11 +113,16 @@
 
 <!-- Site Title
 ================================================== -->
-<div class="mainheading" href="{{ site.baseurl }}/">
+<div class="d-md-flex mainheading " href="{{ site.baseurl }}/">
+    <div class="col-md-10">
     <a href="{{ site.baseurl }}/" style="color: black;"> <h1   class="sitetitle" > {{ site.name }} </h1> </a>
     <a href="{{ site.baseurl }}/" style="color: black;"><p   class="lead" href="{{ site.baseurl }}/">
         {{ site.description }}
     </p></a>
+    </div>
+    <div class="col-md-2 text-lg-center">
+        <img src="{{ site.baseurl }}/assets/images/1.png" alt="{{site.title}}" class="center" style="max-height: 120px;" >
+    </div>
 </div>
 
 <!-- Content
@@ -147,34 +152,49 @@
 <!-- Categories Jumbotron
 ================================================== -->
 <div class="jumbotron fortags">
-	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center text-center h-100">
-            <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+	<div class="d-md-flex h-100 ">
+		<div class="col-md-4  align-self-center text-center bg-transparent">
+            <div class="d-md-flex align-items-center justify-content-center h-40">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light " style="text-decoration: underline; color: gainsboro;">Explore Categories <span class="d-none d-md-inline"></span></h2>
             </div>
-		</div>
-		<div class="col-md-8 p-5 align-self-center text-center">
-            {% assign categories_list = site.categories %}
-            {% if categories_list.first[0] == null %}
-                {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
-                {% endfor %}
-            {% else %}
-                {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
-                {% endfor %}
-            {% endif %}
-            {% assign categories_list = nil %}
-		</div>
+		
+            <div class="p-3 align-self-center text-center bg-transparent">
+                {% assign categories_list = site.categories %}
+                {% if categories_list.first[0] == null %}
+                    {% for category in categories_list %}
+                        <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    {% endfor %}
+                {% else %}
+                    {% for category in categories_list %}
+                        <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    {% endfor %}
+                {% endif %}
+                {% assign categories_list = nil %}
+            </div>
+        </div>
+        <div class="col-md-4  align-self-center text-center h-300 bg-transparent">
+            <img src="{{ site.baseurl }}/assets/images/2.png" alt="{{site.title}}" style="max-height: 150px;" >
+        </div>
+        <div class="col-md-4  align-self-center text-lg-right h-300 bg-transparent">
+            <div class="d-md-flex align-self-center">
+                <div>
+                <h3 class="d-md-block py-1 font-weight-light text-lg-center align-self-center " style="text-decoration: underline; color: gainsboro;">Contact Me: <span class="d-none d-md-inline"></span></h3>
+                </div>
+                <div class="bg-transparent py-1 align-self-center ">
+                <p><a href="mailto:trmittal24@gmail.com">trmittal24@gmail.com</a></p>
+                </div>
+            </div>
+        </div>
 	</div>
+    
 </div>
 
 <!-- Begin Footer
 ================================================== -->
 <footer class="footer">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left" style="align-self: center;">
+        <div class="row center">
+            <div class=" text-center text-lg-right" style="align-self: center;">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <!--<div class="col-md-6 col-sm-6 text-center text-lg-right">    

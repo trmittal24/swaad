@@ -1,4 +1,4 @@
-I"+<div class="row justify-content-between">
+I"c<div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
 <p>
@@ -18,7 +18,7 @@ Please show some love, give feedback: good or bad and let's get cooking!
 
 <h4>Contact</h4>
 
-<p>You can reach out to me at *trmittal24@gmail.com* for queries and more details.</p>
+<p>You can reach out to me at <a href="mailto:trmittal24@gmail.com">trmittal24@gmail.com</a> for queries and more details.</p>
 
 </div>
 
@@ -26,7 +26,7 @@ Please show some love, give feedback: good or bad and let's get cooking!
 
 <div class="sticky-top sticky-top-80">
 
-<p class="mb-5"><img class="shadow-lg rounded border-8 border-gray-500 border-opacity-100 border-solid" src="/assets/images/about_photo.jpeg" alt="author photo" /></p> 
+<p class="mb-5"><img class="shadow-lg rounded border-8 border-gray-500 border-opacity-100 border-solid" src="{{site.baseurl}}/assets/images/about_photo.jpeg" alt="author photo" /></p> 
 
 
 </div>

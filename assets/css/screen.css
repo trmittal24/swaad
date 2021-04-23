@@ -725,6 +725,10 @@ img {
     max-width: 100%;
 }
 
+img.center {
+    display: block;
+    margin: auto;
+}
 .bottompagination span.navigation {
     display: block;
     font-size: 0.93rem;
@@ -765,7 +769,7 @@ iframe {
 }
 
 .transpdark {
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(0, 0, 0, 0.637);
     color: #fff;
 }
 
@@ -774,10 +778,10 @@ iframe {
         margin-bottom: -50px;
         margin-top: 3rem;
         padding: 0;
-        height: 100px;
+        height: 300px;
         border-radius: 0;
-        background-image: url(../images/2.jpg);
-        background-size: cover;
+        background-image: url(../images/bg2.jpg);
+        background-size:  contain;
     }
 
     .jumbotron.fortags .col-md-4 {
@@ -794,8 +798,8 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/2.jpg);
-    background-size: cover;
+    background-image: url(../images/bg2.jpg);
+    background-size: contain;
 }
 
 .jumbotron.fortags a {
