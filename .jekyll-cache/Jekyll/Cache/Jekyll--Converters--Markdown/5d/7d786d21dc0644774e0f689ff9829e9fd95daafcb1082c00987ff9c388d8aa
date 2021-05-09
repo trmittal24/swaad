@@ -1,11 +1,4 @@
----
-layout: page
-title: Swaad
-permalink: /about
----
-
-
-<div class="row justify-content-between">
+I"1<div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
 <p>
@@ -33,9 +26,11 @@ Please show some love, give feedback: good or bad and let's get cooking!
 
 <div class="sticky-top sticky-top-80">
 
-<p class="mb-5"><img class="shadow-lg rounded border-8 border-gray-500 border-opacity-100 border-solid"  src="{{site.baseurl}}/assets/images/about_photo.jpeg" alt="author photo" /></p> 
+<p class="mb-5"><img class="shadow-lg rounded border-8 border-gray-500 border-opacity-100 border-solid" src="/assets/images/about_photo.jpeg" alt="author photo" /></p> 
 
 
 </div>
 </div>
 </div>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfT0eLNUcMeGUVIAQk9fO6mlWo3MrJ-53_wHxlNkHkG_k1vQQ/viewform?embedded=true" width="640" height="414" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+:ET
