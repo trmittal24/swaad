@@ -24,7 +24,7 @@
 <p>{% endif %}</p>
 
 <!-- Posts Index
-================================================== -->
+================================================== 
 <section class="recent-posts">
 
     <div class="section-title">
@@ -44,7 +44,7 @@
     </div>
 
 </section>
-
+-->
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
