@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swaad
+title: About Me
 permalink: /about
 ---
 
@@ -25,7 +25,7 @@ Please show some love, give feedback: good or bad and let's get cooking! <br> <b
 
 <h4>Contact</h4>
 
-<p>You can reach out to me at <a href="mailto:trmittal24@gmail.com">trmittal24@gmail.com</a> for queries and more details.</p>
+<p>You can reach out to me at <a href="mailto:tarun@swaad.in.net">tarun@swaad.in.net</a> for queries and more details.</p>
 
 </div>
 

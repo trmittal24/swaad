@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swaad
+title: Send Your Swaad
 permalink: /requests
 ---
 <p align="center">
