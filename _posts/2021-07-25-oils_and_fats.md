@@ -81,6 +81,7 @@ th {
     <td>Used for richer flavour in food and in sweets.</td>
 </tr>
 </table>
+<br>
 
 Also, in addition to this, oils locally produced are usually much cheaper than fats. It's also important to note that fats, well, contain more fat and hence should be used with more control than oils. 
 
