@@ -26,7 +26,7 @@ The microwaves, excite the water molecules and vibrate them a billion times ever
 
 Whenever you heat up anything in a microwave, what you are essentially doing is, just heating up the water, and almost all food contents have water, and they heat up pretty quickly. 
 
-Also, don't worry. There is nothing dangerous about eating microwaved food, it's all safe.✌
+Also, don't worry. There is nothing dangerous about eating microwaved food, it's all safe. 
 
 That's it. So simple. :)
 
