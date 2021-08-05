@@ -48,9 +48,9 @@ Microwaving dry fruits and nuts like almonds, cashews or peanuts in microwave fo
 
 Similar to the above point, if any of your snacks, namkeen, nuts have become soft and chewy due to air and rainy weather, microwaving them is a great way to bring them back to life. 
 
-##### ⁕ Melt Butter
+##### ⁕ Melt/Soften Butter
 
-Many recipes call for melted butter and you can use microwave for it. Beware, use a lower power setting and check in intervals of 10 seconds.
+Many recipes call for melted butter and you can use microwave for it. Beware, use a lower power setting and check in intervals of 10 seconds. A 150W 10 second microwave, gives a perfectly soft butter, ready to be spread. 
 
 ##### ⁕ Remove Tomato, Garlic Peels
 
