@@ -42,7 +42,7 @@ Reheating breads, pizzas or rotis doesn't always yield good results due to reduc
 
 ##### ⁕ Roast Dry Fruits and Nuts
 
-Microwaving dry fruits and nuts like almonds, cashews or peanuts in microwave for 3-4 minutes with stirring at every minute yields pretty good results. You get a slightly toasted flavour, and they become crispy. Instant healthy snack. 
+Microwaving dry fruits and nuts like almonds, cashews or peanuts in microwave for 1 minute, stir, then 30-40 more seconds yields pretty good results. You get a slightly toasted flavour, and they become crispy. Instant healthy snack. 
 
 ##### ⁕ Crisp Up Chewy Food
 
