@@ -1,0 +1,70 @@
+I"i<blockquote>
+  <p>The tastiest food hasn’t yet been invented.</p>
+</blockquote>
+
+<p>Nature has a lot of ingredients available to help a man with food, be it from roots, to shrubs or trees, or meat. The diversity is endless, and so are the combinations. We probably haven’t even touched half of the tasty edible combinations, and maybe the tastiest yet was something your mom cooked for dinner last night, but the exact recipe and ingredients aren’t documented. Possibilities are endless, but with the unused power of science at hand, the best is yet to come.</p>
+
+<p>I recently came across <a href="https://youtu.be/oFXVkjbBOck">this video on YouTube</a> hosted by <a href="https://twitter.com/paraschopra">Paras Chopra</a> which really peaked my intrigue. The guest is <a href="http://faculty.iiitd.ac.in/~bagler/">Dr. Ganesh Bagler</a>, a professor at Indraprastha Institute of Information Technology in Delhi, India. He is pioneering a new field called Computational Gastronomy, which combines machine learning, data and food.</p>
+
+<p>The article will give you a good excerpt about the work going on, a beautiful publicly available database of recipes and flavours which is very easy and fun to use. By the end of it, you will have a powerful engine, which you can use the next time you are bored of the same recipes, or need to finish the leftover ingredients in your fridge, or want to understand which flavours go really well together.</p>
+
+<p>I’m not going to delve deep into the research details to keep it short, you can check that out in the links at the end of article.</p>
+
+<h3 id="-how-are-we-using-data-for-food">❖ How are we using Data for Food?</h3>
+
+<p>Have you ever wondered why do we combine ingredients in our recipes the way we do? Or for that matter, could we find scientific ways for altering diet to improve health, or enhance the taste? Guess what, Dr. Ganesh and his team are already doing that, pioneering this research in India. Such research was already being done in other nations for their cuisine, but for Indian food, which is much more complex in nature, it’s happening now and it’s exciting to say the least.</p>
+
+<p>Imagine personalized food, there is a particular combination of ingredients that is perfect only for you, with respect to taste, nutrition and health. Or, maybe a flavour pairing, to know exactly what drink goes well with that plate of Chole Bhature. It’s all possible, and with this research, we are more closer to it than ever.</p>
+
+<p>“I don’t want to see Research! What’s in it for you?” Have this question? Don’t worry, they have a very easy tool which will actually be useful for you.</p>
+
+<h3 id="-using-the-data-yourself">❖ Using the Data Yourself!</h3>
+
+<p align="center">
+  <img class="shadow-lg rounded" src="/assets/images/recipedb/recipe_circle.png" style="width: 80%; height: 80%;" />
+</p>
+
+<p>They have built an openly available database for:</p>
+<ul>
+  <li>Recipes (<a href="https://cosylab.iiitd.edu.in/recipedb/">https://cosylab.iiitd.edu.in/recipedb/</a>)</li>
+  <li>Flavours (<a href="https://cosylab.iiitd.edu.in/flavordb/">https://cosylab.iiitd.edu.in/flavordb/</a>)</li>
+</ul>
+
+<p>It’s probably not an overstatement to say that they are a treat to use! Let me explain you what they do and how you can use them.</p>
+
+<h4 id="-recipe-database">❖ Recipe Database</h4>
+
+<p>This is a collection of multiple recipes from across the world, cultures, with details like ingredients, nutrition profiles, flavour, health information and even the cooking utensils linked with them. You have to ability to search across categories with selective details according to your choice. 
+For example:</p>
+
+<ul>
+  <li>If you have some ingredients and want to avoid some, you have a search dedicated just for that!</li>
+  <li>You can search for some recipes for particular regions or countries.</li>
+  <li>Narrow down results based on the desired nutrition profile.</li>
+  <li>Combine all of these for a master Search!</li>
+</ul>
+
+<p>How cool is that!</p>
+
+<p align="center">
+  <img class="shadow-lg rounded" src="/assets/images/recipedb/search_jain.png" style="width: 80%; height: 80%;" />
+</p>
+
+<p>For example, here I searched for <em>Indian</em> recipes which <em>have tomato</em> but <em>exclude garlic</em>.</p>
+
+<p>You can look up the usage in detail <a href="https://cosylab.iiitd.edu.in/recipedb/howto">here</a>.</p>
+
+<h4 id="-flavour-database">❖ Flavour Database</h4>
+
+<p>What is flavour? Flavour is what helps you define the food using it’s smell and taste via your olfactory (nose) and gustatory (tongue) senses. And a variety of molecules trigger different flavours based on the chemical reaction they undergo. These flavour molecules, the same ones can be a part of different foods, and it is a unique pairing of these flavours that give us a complete sensation of tasty food.</p>
+
+<p>The team at IIITD has compiled a big database with many ingredients and their individual flavour molecules. They also use this to select the best flavour pairings, i.e to see which sides/beverage/drink will go the best along with the mains. This is a bit more involved and not so useful in day to day cooking, you can check out for of it on their  <a href="https://cosylab.iiitd.edu.in/flavordb/">site</a></p>
+
+<p>That’s it for today, I tried covering some new type of topic in cooking, would love to hear if you liked this type of content.</p>
+
+<p>You can also subscribe to my weekly FoodLetter <a href="https://swaad.in.net/subscribe">here</a> if you haven’t yet. Receive all blog and other updates right in your inbox!</p>
+
+<p><em>Until then…</em></p>
+
+<h5 id="credits-to-httpcosylabiiitdeduin">Credits to: http://cosylab.iiitd.edu.in/</h5>
+:ET
