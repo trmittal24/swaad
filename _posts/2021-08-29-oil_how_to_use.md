@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-> Craving that restaurant style curry, or that lip-smacking dhaba dish? TOo hard to replicate? Why fear when I'm here? Let me help.
+> Craving that restaurant style curry, or that lip-smacking dhaba dish? Too hard to replicate? Why fear when I'm here? Let me help.
 
 Take your food to the next level, by using fats correctly in your cooking, don't underuse it, but don't overdo it either. Our traditional home food generally has less oil than outside food, but that's what (in addition to other tips coming your way soon 😉) makes their food more desirable. More fat doesn't necessarily imply unhealthy, because remember, you, at your home, are using good fats, and it won't cause you any problems. 
 
