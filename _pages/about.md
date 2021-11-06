@@ -4,11 +4,21 @@ title: About Me
 permalink: /about
 ---
 
-
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+
+
 <p>
+
+Hola, it's me, Tarun! :)
+An engineer by profession, a chess player by hobby and a cook in every other moment. 
+I like to explore everything, stay curious and unearth the reasoning behind how things behave the way they do.
+Or rather.... why foods taste the way they do and how can you make it better in a simpler way. 
+And that's my motivation for Swaad.
+
+<h4>About Swaad</h4>
+
 Always confused why your dishes never come out perfect even though you follow the "Recipe" perfectly? <br> <br>
 
 Fed up and looking for something better to impress your friends and family? <br>
