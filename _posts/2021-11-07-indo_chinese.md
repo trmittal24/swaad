@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Indo Chinese"
-author: tarun
+title:  "A Brief Guide to Indo-Chinese"
 categories: [ basic, sour, acid ]
 image: assets/images/stir_fry/stir_fry.jpg
 featured: true
@@ -23,7 +22,7 @@ You find delicious hakka noodles, fried rice, manchurian being tossed up high in
 ‣ Thinly sliced veggies/meat  
 ‣ Umami and a supporting flavour base  
 ‣ Quick cooking and constant movement on highest heat  
-‣ Well defined separate components on the dish on serving. (Not a sticky mess)  
+‣ Well defined separate components on the dish on serving. (Not a sticky mess) 
 
 That's pretty much all about it, and let's get going to understand why these points are important and how to achieve them.
 

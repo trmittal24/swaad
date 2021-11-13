@@ -15,17 +15,26 @@ permalink: /:title/
 
 
 # Authors
-authors:
-  tarun:
-    name: Tarun Mittal
-    display_name: Tarun Mittal
-    gravatar: 6f45aae7b3300e99ea50987fc2d258b8
-    pic: assets/images/tarun.jpg
-    email: trmittal24@gmail.com
-    web: 
-    twitter: https://twitter.com/trmittal24
-    description: ""
+# authors:
+#   tarun:
+#     name: Tarun Mittal
+#     display_name: Tarun Mittal
+#     gravatar: 6f45aae7b3300e99ea50987fc2d258b8
+#     pic: assets/images/tarun.jpg
+#     email: trmittal24@gmail.com
+#     web: 
+#     twitter: https://twitter.com/trmittal24
+#     description: ""
   
+author:
+  name: Tarun Mittal
+  display_name: Tarun Mittal
+  gravatar: 6f45aae7b3300e99ea50987fc2d258b8
+  pic: assets/images/tarun.jpg
+  email: trmittal24@gmail.com
+  web: 
+  twitter: https://twitter.com/trmittal24
+  description: "hELLO!"
 
 # Plugins
 plugins:
