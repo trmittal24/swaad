@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Brief Guide to Indo-Chinese"
-categories: [ basic, sour, acid ]
+categories: [ basic, asian, indo-chinese, umami ]
 image: assets/images/stir_fry/stir_fry.jpg
 featured: true
 hidden: true
